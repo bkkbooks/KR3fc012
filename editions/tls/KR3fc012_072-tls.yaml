@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc012/tls/v1/juan/72
+seq: 72
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 深綆誤倒正負法負無入入誤人皆過石石誤右丙四重多甲一一誤乙句股第九三十八問至本章二十四寫本誤在旁要二下賈憲立成釋鎖平方法爲方法以方法命上商除實二乘方法爲廉法一退下法再退續商二十六字脫據算術補積二萬五千二百八十一步二萬誤一萬答曰一百三十五步八字脫股弦較與句求弦法以股弦較自乘減之脫較字實如法而一得股股得股案題係求弦而法數乃求股未免疏舛股弦和與句求股法弦誤句與誤爲句弦較股弦較求句股法斜袤一丈丈誤尺餘句股求容積法曰容誤客曰誤四木去右前表三百三十三尺三分尺之一右誤又脫下尺字詳解九章算法札記
+  hash: sha256:75fd68a2065ad5d9f64cb8f0ea6824fd9f3dbfdbec86bb4ae8d8d035fe7e14ca
+metadata:
+  title: 詳解九章算法札記
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc012.xml
+hash: sha256:0eda9e6b1bc2cae57c2d83c73b84ea276fba8b95cf6a6790b36f9d02d67eee46

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc012/tls/v1/juan/27
+seq: 27
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 詳解九章算法札記
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc012.xml
+hash: sha256:473e9fdbf7901d7807c1eec756553dbc194ac9a580c1cbb12f41575f20ce76e0
